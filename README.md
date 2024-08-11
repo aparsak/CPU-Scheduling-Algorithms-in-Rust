@@ -30,6 +30,6 @@ The **FCFS** algorithm is the simplest form of CPU scheduling. In this approach,
 Before running the algorithms, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. 
 
 
-📞 Contact
+## 📞 Contact
 For any inquiries or issues, please open an issue on this repository or reach out to aparsa.khadem@gamil.com.
 
